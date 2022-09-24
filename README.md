@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img src="image-readme/Screenshot (274).png" width="300"><br /><br /><br /><br />
+<img src="image-readme/Screenshot (274).png" width="300"><br /><br />
 
 This is a home of my app
 ## Getting Started
