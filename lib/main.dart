@@ -345,7 +345,7 @@ class _MyAppState extends State<MyApp> {
                                 color: Colors.grey.withOpacity(0.1),
                                 offset: const Offset(1, 3.5),
                                 blurRadius: 6,
-                                spreadRadius: 3,
+                                spreadRadius: 6,
                               )
                             ],
                           ),
