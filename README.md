@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="Image-readme/Screenshot (274).png" width="700"><br /><br /><br /><br />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
